@@ -15,4 +15,4 @@ npm run serve
 npm run build:prod
 ```
 
-![首页]('./src/assets/index.png')
+![首页](src/assets/index.png)
